@@ -5,10 +5,11 @@
 
 <p>I made this with Netbeans and the interface is a JFrame of Swing</p>
 
-<video>"Java-trigonometria/assets/123336731/5a112832-d536-4c94-9489-4a03ea5d7d3f.mp4"</video>
+<video>"Java-trigonometria/assets/123336731/87f6395c-ecae-4b3e-a2c7-8884a211db44.mp4"</video>
 
 
 
 
-https://github.com/Gabihdesu/Java-trigonometria/assets/123336731/702f6a4c-ed75-45a7-95b7-f758a5b9d3fc
+
+https://github.com/Gabihdesu/Java-trigonometria/assets/123336731/87f6395c-ecae-4b3e-a2c7-8884a211db44
 
