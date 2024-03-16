@@ -174,7 +174,7 @@ public class TelaTriangulo extends javax.swing.JFrame {
             lblTipo.setVisible(false);
             escaleno.setVisible(false);
             isoceles.setVisible(false);
-            equilatero.setVisible(true);
+            equilatero.setVisible(false);
         }
         
    
